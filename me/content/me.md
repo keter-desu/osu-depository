@@ -32,6 +32,28 @@ will remove this after 99% fc on lionheart expert 😭
 [/box][/box]
 
 [box=[i]COLLABS[/i]]
+
+[imagemap]
+https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20palm%2001.png
+21.41 31.94 17.73 50.56 https://osu.ppy.sh/users/27756618 PALM
+54.61 2.92 18.91 95.69 https://osu.ppy.sh/users/19746276 KETER
+83.20 66.81 7.66 13.19 https://osu.ppy.sh/beatmapsets/2372761#osu/5122453 VASE OF SECRET
+[/imagemap]
+
+[imagemap]
+https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20palm%20saku%2001.png
+0.00 11.64 27.82 88.36 https://osu.ppy.sh/users/27756618 ヘルタ
+27.82 9.64 36.55 90.36 https://osu.ppy.sh/users/19746276 ケテル
+91.27 26.55 8.73 73.45 https://osu.ppy.sh/users/18969685 さくちゃ
+64.55 38.73 12.36 12.18 https://osu.ppy.sh/beatmapsets?m=3&q=keys%3D7 7K
+[/imagemap]
+
+[imagemap]
+https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20pahomex%2001.gif
+7.27 15.21 50.20 72.70 https://osu.ppy.sh/users/19746276 Keterius
+59.40 1.13 40.60 75.49 https://osu.ppy.sh/users/16568017 Ramiel
+[/imagemap]
+
 [imagemap]
 https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20efialtis%2001.png
 0.00 37.75 21.33 28.76 https://osu.ppy.sh/users/27840427 Efialtis
