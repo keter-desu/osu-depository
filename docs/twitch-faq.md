@@ -5,7 +5,7 @@ TODO: RU FAQ
 - Keyboard - 60HE+
 - Monitor - 31.5" curved 165hz
 - Area - 99 x 55.6875
-- Playstyle - ring index hybrid alt, hover on spinners/stream squares practices
+- Playstyle - ring-index hybrid alt (sometimes single with both fingers), hover on spinners/stream squares practices
 - Skin - custom remake of mathi+enslada, download [here](../files/mathi+keter.osk)
 - Keychain - Shining from Arknights (todo: epic pic)
 
