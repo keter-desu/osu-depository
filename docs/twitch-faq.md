@@ -1,12 +1,12 @@
 # FAQ
 
 - [FAQ](#faq)
-  - [🇷🇺 RU](#-ru)
+  - [RU](#ru)
     - [Почему NFv2?](#почему-nfv2)
-  - [🇬🇧 ENG](#-eng)
+  - [ENG](#eng)
     - [Why NFv2?](#why-nfv2)
 
-## 🇷🇺 RU
+## RU
 
 - Клавиатура - 60HE+
 - Монитор - 31.5" изогнутый 165гц
@@ -16,7 +16,7 @@
 - Скин - личная переделка mathi+enslada, скачать можно [тут](../files/mathi+keter.osk)
 - Цепочка - Shining из Аркнайтс
 
-<img src="../files/shining.jpg" width="70%">
+<img src="../files/shining.jpg" width="40%">
 
 Также можете скачать все мои осу коллекции в `.osdb` формате [здесь](../files/collections.zip),
 чтобы работать с ними нужен [Collection Manager](https://github.com/Piotrekol/CollectionManager/releases).
@@ -31,7 +31,7 @@
 - Намного проще сравнивать скоры между собой, особенно на стрим картах
 - NF чтобы всегда получать скор для дальнейших сравнений
 
-## 🇬🇧 ENG
+## ENG
 
 - Keyboard - 60HE+
 - Monitor - 31.5" curved 165hz
@@ -40,7 +40,7 @@
 - Skin - custom remake of mathi+enslada, download [here](../files/mathi+keter.osk)
 - Keychain - Shining from Arknights
 
-<img src="../files/shining.jpg" width="70%">
+<img src="../files/shining.jpg" width="40%">
 
 Also you could get my osu collections in `.osdb` format [here](../files/collections.zip), to
 work with them you need [Collection Manager](https://github.com/Piotrekol/CollectionManager/releases).
