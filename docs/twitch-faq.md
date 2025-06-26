@@ -16,7 +16,7 @@
 - Скин - личная переделка mathi+enslada, скачать можно [тут](../files/mathi+keter.osk)
 - Цепочка - Shining из Аркнайтс
 
-<img src="../files/shining.jpg" width="40%">
+<img src="../files/shining.jpg" width="30%">
 
 Также можете скачать все мои осу коллекции в `.osdb` формате [здесь](../files/collections.zip),
 чтобы работать с ними нужен [Collection Manager](https://github.com/Piotrekol/CollectionManager/releases).
@@ -40,7 +40,7 @@
 - Skin - custom remake of mathi+enslada, download [here](../files/mathi+keter.osk)
 - Keychain - Shining from Arknights
 
-<img src="../files/shining.jpg" width="40%">
+<img src="../files/shining.jpg" width="30%">
 
 Also you could get my osu collections in `.osdb` format [here](../files/collections.zip), to
 work with them you need [Collection Manager](https://github.com/Piotrekol/CollectionManager/releases).
