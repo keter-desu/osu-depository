@@ -16,7 +16,7 @@ wishing to stream all bpms of 140-240 range at 90%+ on od9.5
 [audio]https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/content/vengeance.mp3[/audio]
 [url=https://osu.ppy.sh/beatmapsets/1776306#osu/3637711]UNDEAD CORPORATION[/url]
 [audio]https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/content/幽し者へ.mp3[/audio]
-PASSCODE - Seize Approaching BRAND NEW ERA (zero maps available 😢 somebody please do 🙏 or I'll map myself 😡)
+PassCode - Seize Approaching BRAND NEW ERA (zero maps available 😢 somebody please do 🙏 or I'll map myself 😡)
 [audio]https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/content/NEW%20ERA.mp3[/audio]
 [url=https://osu.ppy.sh/beatmapsets/1781201#osu/3647690]Roselia[/url]
 [audio]https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/content/neo-aspect.mp3[/audio]
@@ -31,6 +31,10 @@ will remove this after 99% fc on lionheart expert 😭
 [audio]https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/content/face%20to%20face.mp3[/audio][url=https://osu.ppy.sh/beatmapsets/1969366#osu/4085195]^ map ^[/url]
 [/box][/box]
 
+[box=[i]RADIANCE[/i]]
+[youtube]0sby9Wbh4M4[/youtube]
+[/box]
+
 [box=[i]COLLABS[/i]]
 
 [imagemap]
@@ -41,26 +45,18 @@ https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/c
 [/imagemap]
 
 [imagemap]
+https://raw.githubusercontent.com/Efialtis666/po/refs/heads/main/collab%20keter.png
+19.69 17.96 21.9 22.9 https://osu.ppy.sh/users/27840427 Efialtis
+51.33 16.85 21.9 22.9 https://osu.ppy.sh/users/19746276 keter
+32.74 86.19 12.83 12.43 https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20efialtis%2001.png old collab
+[/imagemap]
+
+[imagemap]
 https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20palm%20saku%2001.png
 0.00 11.64 27.82 88.36 https://osu.ppy.sh/users/27756618 ヘルタ
 27.82 9.64 36.55 90.36 https://osu.ppy.sh/users/19746276 ケテル
 91.27 26.55 8.73 73.45 https://osu.ppy.sh/users/18969685 さくちゃ
 64.55 38.73 12.36 12.18 https://osu.ppy.sh/beatmapsets?m=3&q=keys%3D7 7K
 [/imagemap]
-
-[imagemap]
-https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20pahomex%2001.gif
-7.27 15.21 50.20 72.70 https://osu.ppy.sh/users/19746276 Keterius
-59.40 1.13 40.60 75.49 https://osu.ppy.sh/users/16568017 Ramiel
-[/imagemap]
-
-[imagemap]
-https://raw.githubusercontent.com/keter-desu/osu-depository/refs/heads/main/me/collabs/collab%20efialtis%2001.png
-0.00 37.75 21.33 28.76 https://osu.ppy.sh/users/27840427 Efialtis
-44.00 37.30 21.33 28.76 https://osu.ppy.sh/users/19746276 keter
-75.83 37.98 24.17 28.76 https://osu.ppy.sh/home/download playmore forte
-0.00 69.89 20.67 24.49 https://github.com/ppy/osu/releases/latest/download/install.exe sosu
-[/imagemap]
-[/box]
 
 [/centre]
